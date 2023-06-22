@@ -63,10 +63,11 @@ img {
 }
 
 @font-face {
- font-family: 'Pacifico', cursive;
- src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+ font-family: 'Bebas Neue', sans-serif;
+font-family: 'Lobster', cursive;
+ src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap');
  /* IE9 Compat Modes */
- src: url('//fonts.googleapis.com/css?family=Playball:400') format('embedded-opentype'), url('../fonts/DB Helvethaica X v3.2.woff') format('woff'), url('../fonts/DB Helvethaica X v3.2.ttf') format('truetype'), url('../fonts/DB Helvethaica X v3.2.svg#d6a7d8571348c8a262e7f05953d42d15') format('svg');
+ src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap') format('embedded-opentype'), url('../fonts/DB Helvethaica X v3.2.woff') format('woff'), url('../fonts/DB Helvethaica X v3.2.ttf') format('truetype'), url('../fonts/DB Helvethaica X v3.2.svg#d6a7d8571348c8a262e7f05953d42d15') format('svg');
  /* Legacy iOS */
  font-style: normal;
  font-weight: 400;
