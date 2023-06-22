@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 
-@import url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&display=swap);
 
 .section1 {
 	background-color: #f9c9c9;
@@ -15,7 +15,8 @@
 }
 
 .congratulation-text {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 230%;
   color:#98018c;
   margin-top:10%;
